@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://tobabe42:Mz5XjD8FSbWIt1Um@cluster0.e2fkzwf.mongodb.net/?retryWrites=true&w=majority
+      database : Hostel
